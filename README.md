@@ -6,7 +6,7 @@ Prequisites:
 To run the project:
 
 01. Open theproject from Visual Studio and Install all npm dependencies using follwing command:
-'npm install'
+/n 'npm install'
 
 02. Open Cypress test runner using below command:
 'node_modules\.bin\cypress open'
